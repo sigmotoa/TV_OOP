@@ -1,0 +1,15 @@
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/bin/Debug/net7.0/IntroClases
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/bin/Debug/net7.0/IntroClases.deps.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/bin/Debug/net7.0/IntroClases.runtimeconfig.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/bin/Debug/net7.0/IntroClases.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/bin/Debug/net7.0/IntroClases.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.csproj.AssemblyReference.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.AssemblyInfoInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.AssemblyInfo.cs
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.csproj.CoreCompileInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/refint/IntroClases.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/IntroClases.genruntimeconfig.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroClases/IntroClases/obj/Debug/net7.0/ref/IntroClases.dll
